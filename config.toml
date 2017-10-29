@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://cmocanu.github.io/blog/"
 languageCode = "en-us"
 title = "cristian"
 theme = "hugo-classic"
@@ -6,11 +6,10 @@ googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
-publishDir = "docs"
 
 [permalinks]
-    post = "/post/:year/:month/:day/:slug/"
+    post = "/post/:slug/"
 
 [params]
-    description = "A simple, minimal blog for those who love text."
+    description = "Cristian's blog"
     footer = ""
