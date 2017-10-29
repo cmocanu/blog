@@ -1,0 +1,16 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "cristian"
+theme = "hugo-classic"
+googleAnalytics = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+footnotereturnlinkcontents = "↩"
+publishDir = "docs"
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug/"
+
+[params]
+    description = "A simple, minimal blog for those who love text."
+    footer = ""
