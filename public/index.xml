@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on cristian</title>
+    <link>https://cmocanu.github.io/blog/</link>
+    <description>Recent content in Home on cristian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Apr 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cmocanu.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning programming sucks</title>
+      <link>https://cmocanu.github.io/blog/post/learning_programming_sucks/</link>
+      <pubDate>Wed, 25 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://cmocanu.github.io/blog/post/learning_programming_sucks/</guid>
+      <description>Current state of learning programming There has been a rising interest in learning to program all over the world, now that demand for programmers is at an all time high, salaries are rising, and lately it&amp;rsquo;s been getting pretty crazy, with hundreds of available websites, courses, bootcamps, moocs, meetups promising to make you a &amp;ldquo;coder&amp;rdquo; in a few months and get you a very high-paying job. It&amp;rsquo;s gotten so far that even presidents and sports superstars encourage people to learn to code.</description>
+    </item>
+    
+    <item>
+      <title>URL Shortener</title>
+      <link>https://cmocanu.github.io/blog/post/url_shortener/</link>
+      <pubDate>Tue, 24 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://cmocanu.github.io/blog/post/url_shortener/</guid>
+      <description>Building a simple URL shortener Following the rant on how learning programming should be a more practical, code first experience, I created a small project to better illustrate my vision. It is a very simple API for a URL shortener created in Flask. The API is not implemented, but there are tests provided and I will also provide a separate solution to compare against your own.
+Implementing this API will teach you a few important concepts:</description>
+    </item>
+    
+  </channel>
+</rss>
